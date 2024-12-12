@@ -1,0 +1,4 @@
+*.pyc
+customer/tests.py
+books/tests.py
+order/tests.py
