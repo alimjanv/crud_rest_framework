@@ -8,6 +8,7 @@ order/tests.py
 books/__pycache__/
 customer/__pycache__/
 order/__pycache__/
+config/__pycache__/
 
 
 
